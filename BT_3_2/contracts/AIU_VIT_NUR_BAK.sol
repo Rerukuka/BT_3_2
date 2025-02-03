@@ -1,4 +1,6 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT Контракт создает ERC20-токен, 
+//позволяет отслеживать детали транзакций через события и предоставляет вспомогательные функции для получения информации о транзакциях.
+
 pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
